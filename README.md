@@ -1,2 +1,2 @@
-# FinalProjectPartA
-Final Project Part A (Software Engeeniring Bs.c. Yovel Cohen and Eyal Koubi)
+# FinalProjectPartB
+Final Project Part B (Software Engeeniring Bs.c. Yovel Cohen and Eyal Koubi)
